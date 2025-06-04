@@ -3,6 +3,7 @@
 # FileName:pythonProject1-__init__.py
 # DateTime:2025/5/12 15:48
 import re
+# update
 
 # re.I 忽略大小写
 text="Cat cat cAt caT"
