@@ -9,3 +9,12 @@ Date:   Fri Jun 6 17:38:52 2025 +0800
     commit part filescommit_update
 
 # 删除文件
+
+1. 修改pro/settings,ALLOWED_HOST=['*']
+    - 再次启动，可以使用 python manage.py runserver 0.0.0.0:8000；可使用ip:8000访问
+2. 修改pro/settings,INSTALLED_APP添加 ‘app_name’
+3. 修改app/view.py,添加方法welcome
+    **升级：**
+      - 传参render方法的content参数，需字典类型`render(request,'welcome.html',{"name":today})`
+    - templates中{{key}}引用参数值(key即字典的键)
+4. 修改pro/urls.py,urlpatterns添加映射 path('welcome/', welcome)
