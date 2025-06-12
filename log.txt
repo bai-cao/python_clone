@@ -1,0 +1,304 @@
+commit 88ddcf7cb0bc87d7f7dc219c8591f2cf0fd3e4a3
+Merge: c4b8dec faaa7fc
+Author: bai-cao <2944717202@qq.com>
+Date:   Mon Jun 9 17:12:48 2025 +0800
+
+    merge branch_test:Merge conflict in test.txt
+
+
+commit c4b8decfe031f4e2d0f468971181a1e70d81b0a9
+Merge: 7d7d4db aad601a
+Author: bai-cao <2944717202@qq.com>
+Date:   Mon Jun 9 17:05:41 2025 +0800
+
+    Merge conflict in dev.txt
+
+commit aad601a86d9af9192a9aa288bcaf2f9769d620a2
+Author: bai-cao <2944717202@qq.com>
+Date:   Mon Jun 9 16:46:10 2025 +0800
+
+    update dev.txt
+
+commit faaa7fc4784418108ac8382828030747052776fa
+Author: bai-cao <2944717202@qq.com>
+Date:   Mon Jun 9 16:44:59 2025 +0800
+
+    update test.txt
+
+commit 7d7d4db3b4ab28d64a7358cc67c6635336c25848
+Author: bai-cao <2944717202@qq.com>
+Date:   Mon Jun 9 16:41:48 2025 +0800
+
+    update test.txt&dev.txt
+
+commit cef3c4d5883c43b71a7ab0fb2eb02f1acaa4b375
+Merge: dc79c57 629c3fc
+Author: bai-cao <2944717202@qq.com>
+Date:   Mon Jun 9 16:11:09 2025 +0800
+
+    merge test branch
+
+commit dc79c5754f8a151a65af5846354ec62b72cf2cdd
+Author: bai-cao <2944717202@qq.com>
+Date:   Mon Jun 9 16:10:04 2025 +0800
+
+    branch dev add dev.txt
+
+commit 629c3fcfe002d97ed62e289bd1ff6be6d8dc81cc
+Author: bai-cao <2944717202@qq.com>
+Date:   Mon Jun 9 16:08:21 2025 +0800
+
+    branch test add test.txt
+
+commit d17fa5302004ee4bfc050305236be94d1d4b3bf8
+Merge: ef90314 30f1a1c
+Author: bai-cao <2944717202@qq.com>
+Date:   Mon Jun 9 13:31:51 2025 +0800
+
+    update commit_update.txt
+
+commit 30f1a1cedd3d76dd6c38847c1caad8b09d2d5357
+Author: bai-cao <71360915+bai-cao@users.noreply.github.com>
+Date:   Mon Jun 9 13:29:20 2025 +0800
+
+    Delete new.txt
+
+commit 266e31acca1b96130ad39a0e8a1620e3d964542e
+Author: bai-cao <71360915+bai-cao@users.noreply.github.com>
+Date:   Mon Jun 9 13:29:07 2025 +0800
+
+    Delete commit_update.txt
+
+commit 7f0648f8201b21ae7da29ca2a2a5932e7d93a023
+Author: bai-cao <71360915+bai-cao@users.noreply.github.com>
+Date:   Mon Jun 9 13:28:52 2025 +0800
+
+    Delete add_no.txt
+
+commit 93e0a29b2e9b1a99ca538b7a61354f8501bdbff6
+Author: bai-cao <71360915+bai-cao@users.noreply.github.com>
+Date:   Mon Jun 9 13:25:30 2025 +0800
+
+    Delete add_update.txt
+
+commit 788e4bd497b7ff86632d4354ef3e6264827e7bc3
+Author: bai-cao <71360915+bai-cao@users.noreply.github.com>
+Date:   Mon Jun 9 13:25:14 2025 +0800
+
+    Delete commit_no.txt
+
+commit ef903146d4053387b41745bc6744d744bd8a4e86
+Author: bai-cao <2944717202@qq.com>
+Date:   Sat Jun 7 18:05:04 2025 +0800
+
+    添加django信息
+
+commit ea1a7adb81fdd60f837ca60c181201613a814a2e
+Author: bai-cao <2944717202@qq.com>
+Date:   Sat Jun 7 18:01:26 2025 +0800
+
+    删除文件
+
+commit 7337b018198f9918ba8ffe76fd4bdf0bfbd1a250
+Author: bai-cao <2944717202@qq.com>
+Date:   Sat Jun 7 17:43:11 2025 +0800
+
+    提交5个文件的修改和删除操作
+
+commit 9851c569fb66e68c253f2abea74d8f6b915050a7
+Author: bai-cao <2944717202@qq.com>
+Date:   Fri Jun 6 17:38:52 2025 +0800
+
+    commit part files
+
+commit 01d8e952c1c2b8eab26968475215e3f85bc3c13c
+Author: bai-cao <2944717202@qq.com>
+Date:   Fri Jun 6 17:33:25 2025 +0800
+
+    del other files
+
+commit 1d2db8f2d93c94adffd33cdadc381c0051d08f80
+Merge: 03193ee ff3d430
+Author: bai-cao <2944717202@qq.com>
+Date:   Fri Jun 6 09:44:33 2025 +0800
+
+    Merge branch 'main' of github.com:bai-cao/python_clone
+
+commit 03193ee2fb74009a93b937e3cc2e31015a1a134b
+Author: bai-cao <2944717202@qq.com>
+Date:   Fri Jun 6 09:28:55 2025 +0800
+
+    commit 2
+
+commit 7bdd6dd06e14270f07f5de829e9d1a2c4304150a
+Author: bai-cao <2944717202@qq.com>
+Date:   Fri Jun 6 09:28:12 2025 +0800
+
+    commit 1
+
+commit ed39a462627a0c37645fc39c03f0c01114363384
+Author: bai-cao <2944717202@qq.com>
+Date:   Fri Jun 6 09:12:12 2025 +0800
+
+    modified add.txt
+
+commit 2c01c1cad9b1c61373fee204df6f1ec498eb670c
+Author: bai-cao <2944717202@qq.com>
+Date:   Fri Jun 6 08:35:29 2025 +0800
+
+    test
+
+commit 01637e538fb6e56118ae6866b49c2a8a5a94be5c
+Author: bai-cao <2944717202@qq.com>
+Date:   Fri Jun 6 08:34:50 2025 +0800
+
+    test
+
+commit 097a12eaa8367d1db5cebd2457fd7227d8e9104f
+Author: bai-cao <2944717202@qq.com>
+Date:   Fri Jun 6 08:19:51 2025 +0800
+
+    commit add.txt  修改--amend
+
+commit 70626335d1ac1c564bf3a98348a82c0ccf68cdb7
+Author: bai-cao <2944717202@qq.com>
+Date:   Thu Jun 5 12:53:03 2025 +0800
+
+    com
+
+commit ff3d430a73853944cd32840698f83edfeb16e4df
+Merge: 2398567 2a8fc82
+Author: bai-cao <2944717202@qq.com>
+Date:   Wed Jun 4 08:41:12 2025 +0800
+
+    Merge branch 'branch_1'
+    add add.txt
+    updete 0512
+    del commit
+
+commit 2a8fc8235d9f43130d6fb60583dd4ed15a669b42
+Author: bai-cao <2944717202@qq.com>
+Date:   Wed Jun 4 08:39:10 2025 +0800
+
+    add add.txt,update 0512,del commit
+
+commit 2398567251a6167402ff55741334bfb9d3199a13
+Merge: 6a0f11b d725553
+Author: bai-cao <2944717202@qq.com>
+Date:   Tue Jun 3 21:32:38 2025 +0800
+
+    Merge branch 'branch_1'
+    test merge
+    branch_1:you commit.zip
+    main: you package
+
+commit d725553edea1e31dca2af7660e69be4d4f782fc1
+Author: bai-cao <2944717202@qq.com>
+Date:   Tue Jun 3 21:28:55 2025 +0800
+
+    del package0509
+
+commit 6a0f11b7072e3cf51b6f226133422615defc3431
+Author: bai-cao <2944717202@qq.com>
+Date:   Tue Jun 3 21:26:14 2025 +0800
+
+    del commit.zip
+
+commit 5387b50b8a094127ac4ef60f1a8a8335f7b4be66
+Merge: ba9e40b ca90e91
+Author: bai-cao <2944717202@qq.com>
+Date:   Tue Jun 3 21:04:11 2025 +0800
+
+    Merge branch 'main' of github.com:bai-cao/python_clone
+
+commit ba9e40b29084da607ba5dfb6f8e3f37be2c8de5c
+Merge: 3e8a03f 72d0294
+Author: bai-cao <2944717202@qq.com>
+Date:   Tue Jun 3 20:50:44 2025 +0800
+
+    Merge branch 'branch_1'
+    delete branch_1 files
+
+commit 72d0294414215245af1c6df5719ee3a11f407a2c
+Author: bai-cao <2944717202@qq.com>
+Date:   Tue Jun 3 20:49:12 2025 +0800
+
+    del branch_1 file
+
+commit ca90e91668a064be77ae42ea2bef727d89942c66
+Merge: 948b81d a8240b4
+Author: bai-cao <71360915+bai-cao@users.noreply.github.com>
+Date:   Mon Jun 2 22:18:21 2025 +0800
+
+    Merge pull request #2 from bai-cao/branch_1
+    
+    Branch 1
+
+commit 3e8a03fb6fa24975ab339ec5eca0d67debf16e27
+Merge: b2e6df7 a8240b4
+Author: bai-cao <2944717202@qq.com>
+Date:   Mon Jun 2 22:16:06 2025 +0800
+
+    Merge branch 'branch_1'
+    commit comment
+
+commit a8240b4049e787ab21065d787c33801923417a54
+Author: bai-cao <2944717202@qq.com>
+Date:   Mon Jun 2 22:15:10 2025 +0800
+
+    新增docx
+
+commit 4211f088c3271bda1288fbf7daacfe578dbe9cd4
+Author: bai-cao <2944717202@qq.com>
+Date:   Mon Jun 2 21:18:35 2025 +0800
+
+    add new branch_1
+
+commit b2e6df7f943210e4f6b9b4773745ecf6ce9c49a2
+Author: bai-cao <2944717202@qq.com>
+Date:   Mon Jun 2 21:18:35 2025 +0800
+
+    add new branch_1
+
+commit 948b81d90046bf1036c29512751ad7e6d1ef3723
+Author: bai-cao <71360915+bai-cao@users.noreply.github.com>
+Date:   Mon Jun 2 14:45:30 2025 +0800
+
+    Update README.md
+
+commit ca7be4e66749604c3ca7ce7ca4e1bd6eeb318f8f
+Merge: c4ff9f4 d240b54
+Author: bai-cao <2944717202@qq.com>
+Date:   Mon Jun 2 14:33:44 2025 +0800
+
+    merge conflict in README.md
+
+commit d240b543edb3d7204417133adf3f25f4b2b82869
+Author: bai-cao <71360915+bai-cao@users.noreply.github.com>
+Date:   Thu May 29 17:07:39 2025 +0800
+
+    Initial commit
+
+commit c4ff9f47bc827b81d64889712429534465cd188a
+Author: bai-cao <2944717202@qq.com>
+Date:   Thu May 29 16:34:27 2025 +0800
+
+    a_branch:add a.txt
+
+commit d89c6fb05d7081e9da56a434a3382a66b00cd57a
+Author: bai-cao <2944717202@qq.com>
+Date:   Thu May 29 16:25:01 2025 +0800
+
+    新增
+
+commit 0e02d19bda7b3c106205583934f1382bd3d72411
+Author: bai-cao <2944717202@qq.com>
+Date:   Wed May 28 08:08:51 2025 +0800
+
+    新增Package
+
+commit 1d5fa892588d9e9478bf3aeab3c045a764337607
+Author: bai-cao <71360915+bai-cao@users.noreply.github.com>
+Date:   Sun May 25 14:50:40 2025 +0800
+
+    Initial commit
