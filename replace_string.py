@@ -5,7 +5,12 @@
 import re
 
 def replace_string(olds:str,news:str=""):
-    pass
+    """
+    添加函数说明，以便测试补丁
+    :param olds:
+    :param news:
+    :return:
+    """
     with open("replace.txt","r+",encoding="utf-8") as f:
         txt=f.read()
     replText=re.sub(olds,news,txt) # 替换
